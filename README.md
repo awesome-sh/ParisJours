@@ -1,7 +1,7 @@
 # PARISJOURS
 First Java Project (Java, JavaFx)
 
-<img src="https://user-images.githubusercontent.com/46561976/54017902-bfe27780-41ca-11e9-808d-172434c731a9.png" width="300px"><Br>
+<img src="https://user-images.githubusercontent.com/46561976/54017902-bfe27780-41ca-11e9-808d-172434c731a9.png" width="300px">
 <img src="https://user-images.githubusercontent.com/46561976/54018213-69296d80-41cb-11e9-8290-4587fb12a423.png" width="300px"><br>
 
 # 프로젝트 정보
