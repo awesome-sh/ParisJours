@@ -1,6 +1,8 @@
 # PARISJOURS
 First Java Project (Java, JavaFx)
 
+<img src="https://user-images.githubusercontent.com/46561976/54017902-bfe27780-41ca-11e9-808d-172434c731a9.png"><Br>
+
 # 프로젝트 정보
 - 프로젝트 기간 : 11월 1일 - 11월 13일 (약 13일간)
 - 사용프로그램 : 이클립스, JavaFx ,Scene Builder, ObjectAid
@@ -25,5 +27,3 @@ First Java Project (Java, JavaFx)
 프로그램 UI자바 FX & Scene Bulider를 통한<br>
 이벤트처리 구현, 로그인/공지사항 구현, 파일 입출력 및<br>
 데이터 가공 (DB기능) 정산시스템 구현 및 최종 자료 취합<br>
-
-# 화면구현
