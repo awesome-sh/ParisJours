@@ -2,6 +2,7 @@
 First Java Project (Java, JavaFx)
 
 <img src="https://user-images.githubusercontent.com/46561976/54017902-bfe27780-41ca-11e9-808d-172434c731a9.png"><Br>
+<imb src="https://user-images.githubusercontent.com/46561976/54018213-69296d80-41cb-11e9-8290-4587fb12a423.png"><br>
 
 # 프로젝트 정보
 - 프로젝트 기간 : 11월 1일 - 11월 13일 (약 13일간)
